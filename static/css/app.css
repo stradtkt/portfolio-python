@@ -1,0 +1,11 @@
+.page-header {
+    background-image: url('./../img/office-dark.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pre-footer {
+    background-image: url('../img/nastuh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
